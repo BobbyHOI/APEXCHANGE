@@ -1,0 +1,15 @@
+PODS:
+  - libPhoneNumber-iOS (0.9.12)
+  - ObjectMapper (2.2.9)
+
+DEPENDENCIES:
+  - libPhoneNumber-iOS (~> 0.8)
+  - ObjectMapper (~> 2.2)
+
+SPEC CHECKSUMS:
+  libPhoneNumber-iOS: b8a1038a101c78616c4df87815ac1556349faf98
+  ObjectMapper: 63cfe41bc6f8e7c8f44344c49901b8ae7de14c52
+
+PODFILE CHECKSUM: b277d6349779dcb199e261b34fae40037122f579
+
+COCOAPODS: 1.3.1

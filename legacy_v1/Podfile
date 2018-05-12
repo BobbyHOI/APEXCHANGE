@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+
+target 'APEXCHANGE' do
+  pod 'libPhoneNumber-iOS', '~> 0.8'
+  pod 'ObjectMapper', '~> 2.2'
+end
