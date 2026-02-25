@@ -1,6 +1,9 @@
 <p align="center">
+  <img src="modern_v2/Assets/APEXCHANGE.%20app%20logo%20whitepng.png" alt="APEXCHANGE App Logo" width="150" />
+  <br>
   <img src="modern_v2/Assets/APEXCHANGE%20logo.png" alt="APEXCHANGE Logo" width="250" />
 </p>
+
 
 # APEXCHANGE
 
